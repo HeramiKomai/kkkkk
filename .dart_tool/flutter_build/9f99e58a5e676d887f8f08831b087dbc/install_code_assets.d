@@ -1,0 +1,1 @@
+ D:\\Natchanon\\devops\\work\\.dart_tool\\flutter_build\\9f99e58a5e676d887f8f08831b087dbc\\native_assets.json: 
